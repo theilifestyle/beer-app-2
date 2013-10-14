@@ -1,0 +1,160 @@
+body {
+    background: $background;
+    color: #fff;
+    padding-top: 104px;
+}
+
+#controls {
+  width: 100%;
+  padding: 7px 0;
+  border-bottom: 1px solid #41311d;
+  box-shadow: -7px 5px 18px -5px #3F2F1A;
+  position: fixed;
+  top: 0;
+  background: $darkest;
+  @include box-sizing(border-box);
+  input {
+    @include box-sizing(border-box);
+    background: #8f714a url('/images/icon/search.png') no-repeat 10px center;
+    border: 1px solid #8f714a;
+    padding: 15px 10px 15px 55px;
+    display: block;
+    outline: none;
+    width: 95%;
+    border-radius: 3px;
+    box-shadow: 0 0 0 1px #6c512e inset;
+    color: #fff;
+    font-family: "myriad-pro",sans-serif;
+    margin: 0 auto 0.5em;
+    &::-webkit-input-placeholder {
+      color: #bca169;
+      font-family: "myriad-pro",sans-serif;
+      font-weight: normal;
+      font-style: italic;
+      font-size: 19px;
+    }
+
+    &:-moz-placeholder {
+      color: #bca169;
+      font-family: "myriad-pro",sans-serif;
+      font-weight: normal;
+      font-style: italic;
+      font-size: 19px;
+    }
+  }
+  #buttons-cont {
+    @include display-box;
+    width: 95%;
+    margin: 0 auto;
+  }
+  button {
+    background: #58442a;
+    border: 1px solid #94764f;
+    color: $text;
+    padding: 5px;
+    text-align: center;
+    font-family: "myriad-pro",sans-serif;
+    border-radius: 3px;
+    box-shadow: 0 0 0 1px #3f2f1a inset;
+    margin: 0 3px;
+    outline: none;
+    text-transform: uppercase;
+    display: block;
+    @include box-flex(1);
+  }
+}
+
+.entry {
+  padding: 15px;
+  margin: 0 0 7px 0;
+  border: 1px solid #9a7c56;
+  background: #856741;
+  border-radius: 3px;
+  box-shadow: 0 0 0 1px transparentize(#7b6044, 0.25) inset;
+  .beer-title {
+    @include display-box;
+    .beer-headline {
+      @include box-flex(2);
+    }
+    .beer-serve-style {
+      @include box-flex(1);
+      background: #58442a;
+      max-width: 90px;
+      min-width: 80px;
+      height: 70px;
+      padding: 10px;
+      border-radius: 3px;
+      box-shadow: 0 0 0 1px transparentize(#3f2f1a, 0.25) inset;
+      .DRAFT {
+        background: url('/images/icon/tap.png') no-repeat center center;
+        height: 67px;
+      }
+      .CASK {
+        background: url('/images/icon/cask.png') no-repeat center center;
+        height: 66px;
+      }
+      .RUBBER-CLAD {
+        background: url('/images/icon/rubber-gravity.png') no-repeat center center;
+        height:70px;
+      }
+       .WOOD-CLAD {
+        background: url('/images/icon/wood-gravity.png') no-repeat center center;
+        height:70px;
+      }
+    }
+  }
+  .beer-info {
+    border-top: 1px solid #9e7e55;
+    border-bottom: 1px solid #9e7e55;
+    padding: 10px 0;
+    margin: 10px 0;
+    @include display-box;
+    .beer-info-cont {
+      border-right: 1px solid #9e7e55;
+      padding: 0 25px;
+      &:first-child {
+        padding-left: 0;
+      }
+      &:last-child {
+        border-right: none;
+      }
+    }
+  }
+  h1,  h2,  h3,  h4,  h5,  h6 {
+    margin: 0;
+    -webkit-font-smoothing: antialiased;
+  }
+  h1 {
+    font-size: 30px;
+    line-height: 1em;
+  }
+  h2 {
+    color: #bca169;
+    font-family: "myriad-pro",sans-serif;
+    font-weight: normal;
+    text-transform: uppercase;
+    font-size: 15px;
+  }
+  h3 {
+    font-family: "myriad-pro",sans-serif;
+    color: #58442a;
+    font-size: 18px;
+    line-height: 1em;
+  }
+  h4 {
+    @extend h3;
+    color: #fff;
+    margin: 0;
+  }
+  h5 {
+    @extend h3;
+    color: $text;
+  }
+  p {
+    font-family: "myriad-pro",sans-serif;
+  }
+  a {
+    color: $text;
+    font-weight: bold;
+  }
+}

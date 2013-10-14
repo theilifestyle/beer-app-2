@@ -1,0 +1,27 @@
+<% for(var i=0; i < this.collection.models.length; i++) { %>
+<% var beer = this.collection.models[i].attributes %>
+<article class="entry">
+    <div class="clearfix beer-title">
+        <div class="beer-headline">
+            <h1><%= beer.name %></h1>
+            <h2><%= beer.type %></h2>
+        </div>
+        <div class="beer-serve-style">
+            <figure class="ir <%= beer.servingStyle %>"></figure>
+        </div>
+    </div>
+    <div class="beer-info clearfix">
+
+        <div class="beer-info-cont" id="location-cont">
+            <h3 class="info-header">From</h3>
+            <h4 class="info-specific"><%= beer.location %></h4>
+        </div>
+
+        <div class="beer-info-cont" id="abv-cont">
+            <h3 class="info-header">ABV</h3>
+            <h4 class="info-specific"><%= beer.abv %></h4>
+        </div>
+    </div>
+
+</article>
+<% } %>

@@ -1,0 +1,46 @@
+<% for(var i=0; i < this.collection.models.length; i++) { %>
+<% var beer = this.collection.models[i].attributes %>
+<article class="entry">
+    <div class="clearfix beer-title">
+        <div class="beer-headline">
+            <h1><%= beer.name %></h1>
+            <h2><%= beer.type %></h2>
+        </div>
+        <div class="beer-serve-style">
+            <figure class="ir <%= beer.servingStyle %>"></figure>
+        </div>
+    </div>
+    <div class="beer-info clearfix">
+
+        <div class="beer-info-cont" id="location-cont">
+            <h3 class="info-header">Location</h3>
+            <h4 class="info-specific"><%= beer.location %></h4>
+        </div>
+
+        <!-- <div class="beer-info-cont" id="rating-cont">
+            <h3 class="info-header">Rating</h3>
+            <h4 class="info-specific">{{rating}}</h4>
+        </div> -->
+
+        <div class="beer-info-cont" id="abv-cont">
+            <h3 class="info-header">ABV</h3>
+            <h4 class="info-specific"><%= beer.abv %></h4>
+        </div>
+    </div>
+    <!-- <div class="details">
+        <div class="more-details">
+            <div class="more-details-cont">
+                <h3 class="info-header">Brewery</h3>
+                <h5>{{brewery}}</h5>
+            </div>
+            {{#description}}
+            <div class="more-details-cont">
+                <h3 class="info-header">About this brew</h3>
+                <p>{{description}}</p>
+            </div>
+            {{/description}}
+        </div>
+        <a class="more-info" href="#">More Info +</a>
+    </div> -->
+</article>
+<% } %>

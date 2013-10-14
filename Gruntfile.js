@@ -39,7 +39,7 @@ module.exports = function (grunt) {
                 tasks: ['coffee:test']
             },
             compass: {
-                files: ['<%= yeoman.app %>/styles/{,*/}*.{scss,sass}'],
+                files: ['{.tmp,<%= yeoman.app %>}/sass/{,*/}*.{scss,sass}'],
                 tasks: ['compass']
             },
             livereload: {
@@ -150,8 +150,8 @@ module.exports = function (grunt) {
         },
         compass: {
             options: {
-                sassDir: '<%= yeoman.app %>/styles',
-                cssDir: '.tmp/styles',
+                sassDir: '<%= yeoman.app %>/sass',
+                cssDir: ['.tmp/styles', '<%= yeoman.app %>/styles'],
                 imagesDir: '<%= yeoman.app %>/images',
                 javascriptsDir: '<%= yeoman.app %>/scripts',
                 fontsDir: '<%= yeoman.app %>/styles/fonts',

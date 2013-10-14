@@ -1,0 +1,42 @@
+ h1 {
+    font-family: "league-gothic",sans-serif;
+    -webkit-font-smoothing: antialiased;
+    font-size: 1.5em;
+    margin: 0;
+ }
+ h2 {
+    font-size: 1em;
+    margin: 0;
+ }
+ h3 {
+    font-family: "league-gothic",sans-serif;
+ }
+ h4 {}
+ h5 {}
+ h6 {}
+
+ p,  ul,  ol {}
+
+ p {}
+ a {}
+
+ ul,  ol {
+  margin-left: 1.8em;
+}
+
+ ul li {
+  list-style-type: disc;
+}
+
+ ol li {
+  list-style-type: decimal;
+}
+
+ blockquote {
+
+}
+
+a:hover, a:active { outline: none; }
+a, a:active, a:visited { color: #607890; }
+a:hover, a:focus { color: #036; }
+a:link { -webkit-tap-highlight-color: #FF5E99; }
