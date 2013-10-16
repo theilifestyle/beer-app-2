@@ -17,10 +17,12 @@
             <h4 class="info-specific"><%= beer.location %></h4>
         </div>
 
+        <% if ( beer.abv ) { %>
         <div class="beer-info-cont" id="abv-cont">
             <h3 class="info-header">ABV</h3>
-            <h4 class="info-specific"><%= beer.abv %></h4>
+            <h4 class="info-specific"><%= beer.abv %>%</h4>
         </div>
+        <% } %>
     </div>
 
 </article>

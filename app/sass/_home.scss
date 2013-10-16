@@ -2,6 +2,7 @@ body {
     background: $background;
     color: #fff;
     padding-top: 104px;
+    font-family: "myriad-pro",sans-serif;
 }
 
 #controls {
@@ -28,7 +29,6 @@ body {
     margin: 0 auto 0.5em;
     &::-webkit-input-placeholder {
       color: #bca169;
-      font-family: "myriad-pro",sans-serif;
       font-weight: normal;
       font-style: italic;
       font-size: 19px;
@@ -36,7 +36,6 @@ body {
 
     &:-moz-placeholder {
       color: #bca169;
-      font-family: "myriad-pro",sans-serif;
       font-weight: normal;
       font-style: italic;
       font-size: 19px;
@@ -85,19 +84,19 @@ body {
       padding: 10px;
       border-radius: 3px;
       box-shadow: 0 0 0 1px transparentize(#3f2f1a, 0.25) inset;
-      .DRAFT {
+      .Draft {
         background: url('/images/icon/tap.png') no-repeat center center;
         height: 67px;
       }
-      .CASK {
+      .Cask {
         background: url('/images/icon/cask.png') no-repeat center center;
         height: 66px;
       }
-      .RUBBER-CLAD {
+      .Rubber-Clad {
         background: url('/images/icon/rubber-gravity.png') no-repeat center center;
         height:70px;
       }
-       .WOOD-CLAD {
+       .Wood-Clad {
         background: url('/images/icon/wood-gravity.png') no-repeat center center;
         height:70px;
       }
@@ -112,6 +111,7 @@ body {
     .beer-info-cont {
       border-right: 1px solid #9e7e55;
       padding: 0 25px;
+      max-width: 50%;
       &:first-child {
         padding-left: 0;
       }
@@ -127,6 +127,7 @@ body {
   h1 {
     font-size: 30px;
     line-height: 1em;
+    text-transform: uppercase;
   }
   h2 {
     color: #bca169;
@@ -138,13 +139,10 @@ body {
   h3 {
     font-family: "myriad-pro",sans-serif;
     color: #58442a;
-    font-size: 18px;
-    line-height: 1em;
   }
   h4 {
     @extend h3;
     color: #fff;
-    margin: 0;
   }
   h5 {
     @extend h3;

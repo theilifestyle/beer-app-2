@@ -11,17 +11,13 @@ beerzu2.Views = beerzu2.Views || {};
 
         template: JST['app/scripts/templates/beer.ejs'],
 
-        attributes: {
-            "data-fun": "yay",
-            "data-nofun": "noayyay"
-        },
-
         initialize: function( a ) {
             this.listenTo(this.collection, 'reset', this.render);
+            this.listenTo(this.collection, 'sort', this.render);
         },
 
         render: function() {
-            $(this.el).html(this.template('hello'));
+            $(this.el).html(this.template());
             return this;
         }
 

@@ -1,0 +1,1499 @@
+[{
+    "name": "Kraus Lager Hell",
+    "type": "Helles Lager (Kellerbier)",
+    "location": "Germany",
+    "abv": "4.7",
+    "servingStyle": "Rubber-Clad Gravity Keg",
+    "id": 0
+}, {
+    "name": "Southern Tier Warlock",
+    "type": "Imperial Pumpkin Stout",
+    "location": "New York",
+    "abv": "9.6",
+    "servingStyle": "Draft",
+    "id": 1
+}, {
+    "name": "Schneider Wiesen Edel-Weisse",
+    "type": "Hefeweizen",
+    "location": "Germany",
+    "abv": "6.2",
+    "servingStyle": "Wood-Clad Gravity Keg",
+    "id": 2
+}, {
+    "name": "Neuzelle Kyritzer Mord & Totschlag",
+    "type": "Schwarzbier",
+    "location": "Draft",
+    "abv": "7.2",
+    "servingStyle": "Draft",
+    "id": 3
+}, {
+    "name": "DC Brau On the Wings of Armageddon",
+    "type": "Imperial IPA",
+    "location": "Washington DC",
+    "abv": "9.2",
+    "servingStyle": "Draft",
+    "id": 4
+}, {
+    "name": "Wild Wolf Cabernet Sauvignon Barrel-Aged Quadrupel",
+    "type": "Quadrupel",
+    "location": "Virginia",
+    "abv": "10.1",
+    "servingStyle": "Draft",
+    "id": 5
+}, {
+    "name": "Dogfish Head 75 Minute IPA",
+    "type": "American IPA",
+    "location": "Delaware",
+    "abv": "7.5",
+    "servingStyle": "Cask",
+    "id": 6
+}, {
+    "name": "Blue Mountain Spooky",
+    "type": "Barrel-Aged Imperial Pumpkin Ale",
+    "location": "Virginia",
+    "abv": "8.2",
+    "servingStyle": "Draft",
+    "id": 7
+}, {
+    "name": "Jolly Pumpkin Fuego del Otono",
+    "type": "Barrel-Aged Wild Ale w\/ Chestnut & Spices",
+    "location": "Michigan",
+    "abv": "6.1",
+    "servingStyle": "Draft",
+    "id": 8
+}, {
+    "name": "Laughing Dog Fresh Hop Pale Ale",
+    "type": "Fresh-Hop Pale Ale",
+    "location": "Idaho",
+    "abv": "5.6",
+    "servingStyle": "Draft",
+    "id": 9
+}, {
+    "name": "Schlafly Tasmanian IPA",
+    "type": "American IPA",
+    "location": "Missouri",
+    "abv": "7.2",
+    "servingStyle": "Draft",
+    "id": 10
+}, {
+    "name": "Goose Island Matilda Lambicus",
+    "type": "Belgian Strong Pale Ale w\/ Brettanomyces",
+    "location": "Illinois",
+    "abv": "7",
+    "servingStyle": "Draft",
+    "id": 11
+}, {
+    "name": "Aecht Schlenkerla Fastenbier",
+    "type": "Rauchbier",
+    "location": "Germany",
+    "abv": "5.5",
+    "servingStyle": "Draft",
+    "id": 12
+}, {
+    "name": "Maine Beer Company Zoe",
+    "type": "American Amber Ale",
+    "location": "Maine",
+    "abv": "7.2",
+    "servingStyle": "Draft",
+    "id": 13
+}, {
+    "name": "Long Trail Imperial Pumpkin Ale",
+    "type": "Imperial Pumpkin Ale",
+    "location": "Vermont",
+    "abv": "8",
+    "servingStyle": "Draft",
+    "id": 14
+}, {
+    "name": "Wei\u00dfenoher Classic Export Bioland",
+    "type": "Helles Lager (Kellerbier)",
+    "location": "Germany",
+    "abv": "5",
+    "servingStyle": "Rubber-Clad Gravity Keg",
+    "id": 15
+}, {
+    "name": "The Monarchy M\u00fcnchhausen",
+    "type": "Altbier",
+    "location": "Germany",
+    "abv": "4.8",
+    "servingStyle": "Draft",
+    "id": 16
+}, {
+    "name": "Stone Reason Be Damned",
+    "type": "Red Wine Barrel-Aged Belgian Strong Blond Ale",
+    "location": "California",
+    "abv": "8",
+    "servingStyle": "Draft",
+    "id": 17
+}, {
+    "name": "New Holland Ichabod",
+    "type": "Pumpkin Ale",
+    "location": "Michigan",
+    "abv": "4.8",
+    "servingStyle": "Draft",
+    "id": 18
+}, {
+    "name": "Bell's Octoberfest Beer",
+    "type": "Oktoberfest",
+    "location": "Michigan",
+    "abv": "5.8",
+    "servingStyle": "Draft",
+    "id": 19
+}, {
+    "name": "Anchor Liberty Ale (Dry-Hopped in the Cask w\/ Cascade Hops)",
+    "type": "American Pale Ale",
+    "location": "California",
+    "abv": "5.9",
+    "servingStyle": "Cask",
+    "id": 20
+}, {
+    "name": "Allagash Avanc\u00e9",
+    "type": "Quadrupel Aged in Oak Barrels w\/ Strawberries",
+    "location": "Maine",
+    "abv": "10.2",
+    "servingStyle": "Draft",
+    "id": 22
+}, {
+    "name": "Heavy Seas The Greater Pumpkin",
+    "type": "Imperial Pumpkin Ale Aged in Bourbon Barrels",
+    "location": "Maryland",
+    "abv": "9",
+    "servingStyle": "Draft",
+    "id": 23
+}, {
+    "name": "Kulmbacher Eisbock",
+    "type": "Eisbock",
+    "location": "Germany",
+    "abv": "9.2",
+    "servingStyle": "Draft",
+    "id": 24
+}, {
+    "name": "AleWerks Pumpkin Ale",
+    "type": "Pumpkin Ale",
+    "location": "Virginia",
+    "abv": "7.3",
+    "servingStyle": "Draft",
+    "id": 25
+}, {
+    "name": "Avery Bad Apple",
+    "type": "Wild Ale Aged in Oak Barrels w\/ Granny Smith Apples",
+    "location": "Colorado",
+    "abv": "6",
+    "servingStyle": "Draft",
+    "id": 26
+}, {
+    "name": "Petrus Aged Pale",
+    "type": "Wild Ale",
+    "location": "Belgium",
+    "abv": "7.3",
+    "servingStyle": "Draft",
+    "id": 27
+}, {
+    "name": "Green Flash & Founders Barrel-Aged Linchpin",
+    "type": "White IPA Aged in Red Wine Barrels w\/ Brettanomyces",
+    "location": "California & Michigan",
+    "abv": "7",
+    "servingStyle": "Draft",
+    "id": 28
+}, {
+    "name": "DuClaw Mad Bishop",
+    "type": "Oktoberfest",
+    "location": "Maryland",
+    "abv": "5.8",
+    "servingStyle": "Draft",
+    "id": 29
+}, {
+    "name": "Eggenberg Samichlaus Classic Vintage 2012",
+    "type": "Dunkles Doppelbock",
+    "location": "Austria",
+    "abv": "14",
+    "servingStyle": "Draft",
+    "id": 30
+}, {
+    "name": "L\u00f6wenbr\u00e4u Lagerbier",
+    "type": "Helles Lager (Kellerbier)",
+    "location": "Germany",
+    "abv": "4.8",
+    "servingStyle": "Rubber-Clad Gravity Keg",
+    "id": 31
+}, {
+    "name": "Mahr\u2019s Kellerbier Ungespundet Hefetr\u00fcb",
+    "type": "Helles Lager (Kellerbier)",
+    "location": "Germany",
+    "abv": "5.2",
+    "servingStyle": "Draft",
+    "id": 32
+}, {
+    "name": "Epic & DC Brau Fermentation Without Representation",
+    "type": "Imperial Pumpkin Porter",
+    "location": "Utah & Washington DC",
+    "abv": "8",
+    "servingStyle": "Draft",
+    "id": 33
+}, {
+    "name": "Hofbr\u00e4u M\u00fcnchen Premium Lager \u2013 Ceremonial Wood-Clad Keg",
+    "type": "Helles Lager",
+    "location": "Germany",
+    "abv": "4.9",
+    "servingStyle": "Wood-Clad Gravity Keg",
+    "id": 34
+}, {
+    "name": "Flying Dog The Fear Vintage 2012",
+    "type": "Imperial Pumpkin Porter",
+    "location": "Maryland",
+    "abv": "9",
+    "servingStyle": "Draft",
+    "id": 36
+}, {
+    "name": "Sierra Nevada Stout",
+    "type": "American Stout",
+    "location": "California",
+    "abv": "5.8",
+    "servingStyle": "Cask",
+    "id": 37
+}, {
+    "name": "Mother Earth Old Neighborhood Oatmeal Porter",
+    "type": "Oatmeal Porter",
+    "location": "North Carolina",
+    "abv": "5.5",
+    "servingStyle": "Draft",
+    "id": 38
+}, {
+    "name": "21ST Amendment & Elysian He Said: Belgian-Style Tripel (White)",
+    "type": "Pumpkin Tripel w\/ Tarragon & Galangal",
+    "location": "California & Washington",
+    "abv": "8.2",
+    "servingStyle": "Draft",
+    "id": 39
+}, {
+    "name": "Elysian & 21ST Amendment He Said: Baltic-Style Porter (Black)",
+    "type": "Imperial Pumpkin Porter w\/ Cinnamon & Caraway",
+    "location": "Washington & California",
+    "abv": "8.2",
+    "servingStyle": "Draft",
+    "id": 40
+}, {
+    "name": "North Coast Barrel-Aged Old Rasputin XV",
+    "type": "Imperial Stout Aged in Bourbon Barrels",
+    "location": "California",
+    "abv": "11.5",
+    "servingStyle": "Draft",
+    "id": 41
+}, {
+    "name": "Stillwater Why Can\u2019t IBU?",
+    "type": "Saison",
+    "location": "Maryland",
+    "abv": "6",
+    "servingStyle": "Draft",
+    "id": 42
+}, {
+    "name": "Boulder Dragonh\u00f6sen",
+    "type": "Imperial Oktoberfest",
+    "location": "Colorado",
+    "abv": "9",
+    "servingStyle": "Draft",
+    "id": 43
+}, {
+    "name": "Baltimore-Washington Beer Works The Raven",
+    "type": "Vienna Lager",
+    "location": "Maryland",
+    "abv": "5.3",
+    "servingStyle": "Draft",
+    "id": 44
+}, {
+    "name": "Wei\u00dfenoher Altfr\u00e4nkisch Klosterbier",
+    "type": "Oktoberfest (Kellerbier)",
+    "location": "Germany",
+    "abv": "5.1",
+    "servingStyle": "Rubber-Clad Gravity Keg",
+    "id": 45
+}, {
+    "name": "Founders Breakfast Stout (w\/ Bourbon-Soaked Oak Chips & Tsin Tsin Chili Peppers in the Cask)",
+    "type": "Imperial Stout",
+    "location": "Michigan",
+    "abv": "8.3",
+    "servingStyle": "Cask",
+    "id": 46
+}, {
+    "name": "Great Lakes Oktoberfest",
+    "type": "Oktoberfest",
+    "location": "Ohio",
+    "abv": "6.5",
+    "servingStyle": "Draft",
+    "id": 47
+}, {
+    "name": "Evolution Jacques Au Lantern",
+    "type": "Pumpkin Ale",
+    "location": "Maryland",
+    "abv": "6.1",
+    "servingStyle": "Draft",
+    "id": 48
+}, {
+    "name": "Perennial Brewer\u2019s IPA #7",
+    "type": "American IPA",
+    "location": "Missouri",
+    "abv": "6",
+    "servingStyle": "Draft",
+    "id": 49
+}, {
+    "name": "Saranac Tramonay Vineyard Saison",
+    "type": "Saison w\/ Grapes",
+    "location": "New York",
+    "abv": "7.4",
+    "servingStyle": "Draft",
+    "id": 50
+}, {
+    "name": "Bayerischer Bahnhof Leipziger Porticus Vintage 2011",
+    "type": "Imperial Porter w\/ Brettanomyces",
+    "location": "Germany",
+    "abv": "7",
+    "servingStyle": "Draft",
+    "id": 51
+}, {
+    "name": "Southern Tier Pumking",
+    "type": "Imperial Pumpkin Ale",
+    "location": "New York",
+    "abv": "8.6",
+    "servingStyle": "Draft",
+    "id": 52
+}, {
+    "name": "Duck-Rabbit M\u00e4rzen",
+    "type": "Oktoberfest",
+    "location": "North Carolina",
+    "abv": "4.8",
+    "servingStyle": "Draft",
+    "id": 53
+}, {
+    "name": "Mahr's Unfiltered Pilsner",
+    "type": "Pilsner (Kellerbier)",
+    "location": "Germany",
+    "abv": "4.9",
+    "servingStyle": "Rubber-Clad Gravity Keg",
+    "id": 54
+}, {
+    "name": "Angry Orchard Crisp Apple Cider",
+    "type": "Cider",
+    "location": "Massachusetts",
+    "abv": "5",
+    "servingStyle": "Draft",
+    "id": 55
+}, {
+    "name": "Brooklyn Oktoberfest",
+    "type": "Oktoberfest",
+    "location": "New York",
+    "abv": "5.5",
+    "servingStyle": "Draft",
+    "id": 56
+}, {
+    "name": "3 Stars Southern Belle",
+    "type": "Imperial Brown Ale w\/ Pecans",
+    "location": "Washington DC",
+    "abv": "8.7",
+    "servingStyle": "Draft",
+    "id": 57
+}, {
+    "name": "Dominion Octoberfest",
+    "type": "Oktoberfest",
+    "location": "Delaware",
+    "abv": "6.4",
+    "servingStyle": "Draft",
+    "id": 58
+}, {
+    "name": "Sixpoint Autumnation",
+    "type": "Fresh Hop IPA",
+    "location": "New York",
+    "abv": "6.7",
+    "servingStyle": "Draft",
+    "id": 59
+}, {
+    "name": "Starr Hill Boxcar Pumpkin Porter",
+    "type": "Pumpkin Porter",
+    "location": "Virginia",
+    "abv": "5.2",
+    "servingStyle": "Draft",
+    "id": 60
+}, {
+    "name": "Aecht Schlenkerla Oak Smoke",
+    "type": "Rauchbier",
+    "location": "Germany",
+    "abv": "8",
+    "servingStyle": "Wood-Clad Gravity Keg",
+    "id": 61
+}, {
+    "name": "Hofstetten Hochzeitsbier von 1810",
+    "type": "Oktoberfest",
+    "location": "Austria",
+    "abv": "6.3",
+    "servingStyle": "Wood-Clad Gravity Keg",
+    "id": 62
+}, {
+    "name": "Tr\u00f6egs Scratch #112: Fest Lager",
+    "type": "Oktoberfest",
+    "location": "Pennsylvania",
+    "abv": "5.5",
+    "servingStyle": "Draft",
+    "id": 63
+}, {
+    "name": "Smuttynose Pumpkin Ale",
+    "type": "Pumpkin Ale",
+    "location": "New Hampshire",
+    "abv": "5",
+    "servingStyle": "Draft",
+    "id": 64
+}, {
+    "name": "Victory Festbier",
+    "type": "Oktoberfest",
+    "location": "Pennsylvania",
+    "abv": "5.6",
+    "servingStyle": "Draft",
+    "id": 65
+}, {
+    "name": "Sierra Nevada Northern Hemisphere Harvest Ale",
+    "type": "Fresh Hop IPA",
+    "location": "California",
+    "abv": "6.7",
+    "servingStyle": "Draft",
+    "id": 66
+}, {
+    "name": "Weihenstephaner Festbier",
+    "type": "Wiesenbier",
+    "location": "Germany",
+    "abv": "5.8",
+    "servingStyle": "Draft",
+    "id": 67
+}, {
+    "name": "Weyerbacher Imperial Pumpkin Ale",
+    "type": "Imperial Pumpkin Ale",
+    "location": "Pennsylvania",
+    "abv": "8",
+    "servingStyle": "Draft",
+    "id": 68
+}, {
+    "name": "Heavy Seas Winter Storm",
+    "type": "Extra Special Bitter",
+    "location": "Maryland",
+    "abv": "7.5",
+    "servingStyle": "Draft",
+    "id": 69
+}, {
+    "name": "Mahr\u2019s Hell",
+    "type": "Helles Lager (Kellerbier)",
+    "location": "Germany",
+    "abv": "4.9",
+    "servingStyle": "Rubber-Clad Gravity Keg",
+    "id": 70
+}, {
+    "name": "Timmermans Pumpkin Lambicus",
+    "type": "Pumpkin Lambic",
+    "location": "Belgium",
+    "abv": "4",
+    "servingStyle": "Draft",
+    "id": 71
+}, {
+    "name": "Lost Rhino RhinO'fest",
+    "type": "Oktoberfest",
+    "location": "Virginia",
+    "abv": "5.5",
+    "servingStyle": "Draft",
+    "id": 72
+}, {
+    "name": "Avery Lilikoi Kepolo (Mahu)",
+    "type": "Witbier w\/ Passionfruit",
+    "location": "Colorado",
+    "abv": "5.6",
+    "servingStyle": "Draft",
+    "id": 73
+}, {
+    "name": "Uinta Wet \u2018n Wyld",
+    "type": "Fresh Hop Pale Ale",
+    "location": "Utah",
+    "abv": "4",
+    "servingStyle": "Draft",
+    "id": 74
+}, {
+    "name": "Otter Creek Oktoberfest",
+    "type": "Oktoberfest",
+    "location": "Vermont",
+    "abv": "4.5",
+    "servingStyle": "Draft",
+    "id": 75
+}, {
+    "name": "Dog\ufb01sh Head Punkin\u2019 Ale",
+    "type": "Pumpkin Ale",
+    "location": "Delaware",
+    "abv": "7",
+    "servingStyle": "Draft",
+    "id": 76
+}, {
+    "name": "Mahr\u2019s Kellerbier Ungespundet Hefetr\u00fcb",
+    "type": "Helles Lager (Kellerbier)",
+    "location": "Germany",
+    "abv": "5.2",
+    "servingStyle": "Rubber-Clad Gravity Keg",
+    "id": 77
+}, {
+    "name": "Port City Oktoberfest",
+    "type": "Oktoberfest",
+    "location": "Virginia",
+    "abv": "5.5",
+    "servingStyle": "Draft",
+    "id": 78
+}, {
+    "name": "Elysian Dark O\u2019 the Moon",
+    "type": "Pumpkin Stout",
+    "location": "Washington",
+    "abv": "6.4",
+    "servingStyle": "Draft",
+    "id": 79
+}, {
+    "name": "Wei\u00dfenoher Monk\u2019s Fest",
+    "type": "Oktoberfest",
+    "location": "Germany",
+    "abv": "5.2",
+    "servingStyle": "Draft",
+    "id": 80
+}, {
+    "name": "M\u00f6nchshof Kellerbier",
+    "type": "Helles Lager (Kellerbier)",
+    "location": "Germany",
+    "abv": "5.4",
+    "servingStyle": "Draft",
+    "id": 81
+}, {
+    "name": "Bayerischer Bahnhof Berliner Weisse \u2013 Hafer",
+    "type": "Berliner Weisse w\/ Oats",
+    "location": "Germany",
+    "abv": "3",
+    "servingStyle": "Draft",
+    "id": 82
+}, {
+    "name": "Wei\u00dfenoher Benediktiner Zwickel",
+    "type": "Helles Lager (Kellerbier)",
+    "location": "Germany",
+    "abv": "4.9",
+    "servingStyle": "Rubber-Clad Gravity Keg",
+    "id": 83
+}, {
+    "name": "Smuttynose Straw-Barb Short Weisse",
+    "type": "Berliner Weisse w\/ Strawberries & Rhubarb",
+    "location": "New Hampshire",
+    "abv": "3.5",
+    "servingStyle": "Draft",
+    "id": 84
+}, {
+    "name": "Mahr\u2019s Saphir Weisse",
+    "type": "Hefeweizen",
+    "location": "Germany",
+    "abv": "5.6",
+    "servingStyle": "Draft",
+    "id": 85
+}, {
+    "name": "Boulevard Tank 7 Farmhouse Ale",
+    "type": "Saison",
+    "location": "Missouri",
+    "abv": "8",
+    "servingStyle": "Draft",
+    "id": 86
+}, {
+    "name": "Schneider Wiesen Edel-Weisse",
+    "type": "Hefeweizen",
+    "location": "Germany",
+    "abv": "6.2",
+    "servingStyle": "Draft",
+    "id": 87
+}, {
+    "name": "Elysian Night Owl Pumpkin Ale",
+    "type": "Pumpkin Ale",
+    "location": "Washington",
+    "abv": "5.9",
+    "servingStyle": "Draft",
+    "id": 88
+}, {
+    "name": "Hofstetten Hochzeitsbier von 1810",
+    "type": "Oktoberfest",
+    "location": "Austria",
+    "abv": "6.3",
+    "servingStyle": "Draft",
+    "id": 89
+}, {
+    "name": "Avery Uncle Jacob\u2019s Stout",
+    "type": "Imperial Stout Aged in Bourbon Barrels",
+    "location": "Colorado",
+    "abv": "17",
+    "servingStyle": "Draft",
+    "id": 90
+}, {
+    "name": "Wei\u00dfenoher Monk\u2019s Fest",
+    "type": "Oktoberfest (Kellerbier)",
+    "location": "Germany",
+    "abv": "5.2",
+    "servingStyle": "Rubber-Clad Gravity Keg",
+    "id": 91
+}, {
+    "name": "Fritz Briem 1809",
+    "type": "Berliner Weisse",
+    "location": "Germany",
+    "abv": "5",
+    "servingStyle": "Draft",
+    "id": 92
+}, {
+    "name": "Avery The Kaiser",
+    "type": "Imperial Oktoberfest",
+    "location": "Colorado",
+    "abv": "10",
+    "servingStyle": "Draft",
+    "id": 93
+}, {
+    "name": "Tr\u00f6eg's Dead Reckoning Porter",
+    "type": "Porter",
+    "location": "Pennsylvania",
+    "abv": "5.8",
+    "servingStyle": "Draft",
+    "id": 94
+}, {
+    "name": "New Holland Ichabod",
+    "type": "Pumpkin Ale",
+    "location": "Michigan",
+    "abv": "4.8",
+    "servingStyle": "Cask",
+    "id": 95
+}, {
+    "name": "Erdinger Oktoberfest Weizen",
+    "type": "Hefeweizen",
+    "location": "Germany",
+    "abv": "5.7",
+    "servingStyle": "Draft",
+    "id": 96
+}, {
+    "name": "Schlafly Pumpkin Ale",
+    "type": "Imperial Pumpkin Ale",
+    "location": "Missouri",
+    "abv": "8",
+    "servingStyle": "Draft",
+    "id": 97
+}, {
+    "name": "Bruery Autumn Maple",
+    "type": "Belgian Strong Dark Ale w\/ Yams & Spices",
+    "location": "California",
+    "abv": "10",
+    "servingStyle": "Draft",
+    "id": 98
+}, {
+    "name": "Hofbr\u00e4u M\u00fcnchen Oktoberfestbier",
+    "type": "Wiesenbier",
+    "location": "Germany",
+    "abv": "6.3",
+    "servingStyle": "Draft",
+    "id": 99
+}, {
+    "name": "Ommegang Scythe & Sickel",
+    "type": "Belgian Pale Ale",
+    "location": "New York",
+    "abv": "5.8",
+    "servingStyle": "Draft",
+    "id": 100
+}, {
+    "name": "Wei\u00dfenoher Bonator",
+    "type": "Doppelbock",
+    "location": "Germany",
+    "abv": "8.2",
+    "servingStyle": "Rubber-Clad Gravity Keg",
+    "id": 101
+}, {
+    "name": "Engelszell Gregorius Trappistenbier",
+    "type": "Quadrupel",
+    "location": "Austria",
+    "abv": "9.7",
+    "servingStyle": "Wood-Clad Gravity Keg",
+    "id": 102
+}, {
+    "name": "Hofstettner Heller Bock Saphir",
+    "type": "Helles Bock",
+    "location": "Austria",
+    "abv": "7.4",
+    "servingStyle": "90 Liter Wood-Clad Gravity Keg",
+    "id": 103
+}, {
+    "name": "Thornbridge Raven",
+    "type": "Black IPA",
+    "location": "England",
+    "abv": "6.6",
+    "servingStyle": "Cask",
+    "id": 104
+}, {
+    "name": "Thornbridge Kipling",
+    "type": "English Pale Ale",
+    "location": "England",
+    "abv": "5.2",
+    "servingStyle": "Cask",
+    "id": 105
+}, {
+    "name": "Fritz Briem Piwo Grodziskie - Gr\u00e4tzer Ale",
+    "type": "Grodziskie\/ Gr\u00e4tzer",
+    "location": "Germany",
+    "abv": "4",
+    "servingStyle": "Draft",
+    "id": 106
+}, {
+    "name": "Baltimore-Washington Beer Works Tell Tale Hearty Ale",
+    "type": "American IPA",
+    "location": "Maryland",
+    "abv": "7.3",
+    "servingStyle": "Draft",
+    "id": 107
+}, {
+    "name": "L\u2019Anjub & Stillwater Aloja",
+    "type": "Saison",
+    "location": "France & Maryland",
+    "abv": "6.7",
+    "servingStyle": "Draft",
+    "id": 108
+}, {
+    "name": "Evil Twin Falco IPA",
+    "type": "American IPA",
+    "location": "Denmark\/ New York",
+    "abv": "7",
+    "servingStyle": "Draft",
+    "id": 109
+}, {
+    "name": "Evil Twin & Westbrook Justin Bl\u00e5b\u00e6r",
+    "type": "Berliner Weisse w\/ Blueberries",
+    "location": "Denmark\/ New York  & South Carolina",
+    "abv": "4.5",
+    "servingStyle": "Draft",
+    "id": 110
+}, {
+    "name": "Wolaver's Will Stevens' Organic Pumpkin Ale",
+    "type": "Pumpkin Ale",
+    "location": "Vermont",
+    "abv": "4.5",
+    "servingStyle": "Draft",
+    "id": 111
+}, {
+    "name": "Boulder Fryed",
+    "type": "Fresh-Hop Pale Ale",
+    "location": "Colorado",
+    "abv": "6",
+    "servingStyle": "Draft",
+    "id": 112
+}, {
+    "name": "The Bruery Oude Tart",
+    "type": "Flanders Red Ale Aged in Red Wine Barrels",
+    "location": "California",
+    "abv": "7.5",
+    "servingStyle": "Draft",
+    "id": 113
+}, {
+    "name": "Stillwater & Brewer's Art Remix #1: Green Peppercorn Single",
+    "type": "Belgian Blond Ale w\/ Green Peppercorn",
+    "location": "Maryland",
+    "abv": "3.9",
+    "servingStyle": "Draft",
+    "id": 114
+}, {
+    "name": "Brewer's Art & Stillwater Remix #2: Down Bar Door",
+    "type": "Saison w\/ Local Sage",
+    "location": "Maryland",
+    "abv": "4.3",
+    "servingStyle": "Draft",
+    "id": 115
+}, {
+    "name": "Brewer\u2019s Art The Chairman 17th Anniversary Ale",
+    "type": "Belgian Stout",
+    "location": "Maryland",
+    "abv": "7.4",
+    "servingStyle": "Draft",
+    "id": 116
+}, {
+    "name": "Wei\u00dfenoher Christkindl",
+    "type": "Dunkles Bock (Kellerbier)",
+    "location": "Germany",
+    "abv": "6.5",
+    "servingStyle": "Rubber-Clad Gravity Keg",
+    "id": 117
+}, {
+    "name": "M\u00f6nchsambacher Lagerbier",
+    "type": "Helles Lager (Kellerbier)",
+    "location": "Germany",
+    "abv": "5.5",
+    "servingStyle": "Rubber-Clad Gravity Keg",
+    "id": 118
+}, {
+    "name": "Bayer Theinheim Ungespundetes Landbier",
+    "type": "Helles Lager (Kellerbier)",
+    "location": "Germany",
+    "abv": "4.7",
+    "servingStyle": "Rubber-Clad Gravity Keg",
+    "id": 119
+}, {
+    "name": "Mahrs Br\u00e4u Bock-Bier",
+    "type": "Helles Bock (Kellerbier)",
+    "location": "Germany",
+    "abv": "6.5",
+    "servingStyle": "Rubber-Clad Gravity Keg",
+    "id": 120
+}, {
+    "name": "Mahrs Br\u00e4u Christmas Bock",
+    "type": "Helles Bock (Kellerbier)",
+    "location": "Germany",
+    "abv": "6",
+    "servingStyle": "Rubber-Clad Gravity Keg",
+    "id": 121
+}, {
+    "name": "Mahrs Br\u00e4u Ginger Bock",
+    "type": "Helles Bock w\/ Ginger (Kellerbier)",
+    "location": "Germany",
+    "abv": "6",
+    "servingStyle": "Rubber-Clad Gravity Keg",
+    "id": 122
+}, {
+    "name": "Anderson Valley Fall Hornin\u2019",
+    "type": "Pumpkin Ale",
+    "location": "California",
+    "abv": "6",
+    "servingStyle": "Draft",
+    "id": 123
+}, {
+    "name": "Stone Levitation",
+    "type": "American Pale Ale",
+    "location": "California",
+    "abv": "4.4",
+    "servingStyle": "Draft",
+    "id": 124
+}, {
+    "name": "Founders Breakfast Stout",
+    "type": "Imperial Stout",
+    "location": "Michigan",
+    "abv": "8.3",
+    "servingStyle": "Draft",
+    "id": 125
+}, {
+    "name": "Founders Mango Magnifico con Calor",
+    "type": "Fruit Beer w\/ Mangoes & Habanero Chilies",
+    "location": "Michigan",
+    "abv": "10",
+    "servingStyle": "Draft",
+    "id": 126
+}, {
+    "name": "Bell\u2019s Hopsolution Ale",
+    "type": "Imperial IPA",
+    "location": "Michigan",
+    "abv": "8.4",
+    "servingStyle": "Draft",
+    "id": 127
+}, {
+    "name": "Champion Bourbon Barrel-Aged Megalodon",
+    "type": "Imperial Porter w\/ Coffee Aged in Bourbon Barrels",
+    "location": "Virginia",
+    "abv": "9",
+    "servingStyle": "Draft",
+    "id": 128
+}, {
+    "name": "Crooked Run Heartsong",
+    "type": "Dubbel",
+    "location": "Virginia",
+    "abv": "7.5",
+    "servingStyle": "Draft",
+    "id": 129
+}, {
+    "name": "Crooked Run Jake o\u2019 Lantern",
+    "type": "Pumpkin Ale",
+    "location": "Virginia",
+    "abv": "4.8",
+    "servingStyle": "Draft",
+    "id": 130
+}, {
+    "name": "DC Brau Brandy Barrel-Aged The Citizen",
+    "type": "Belgian Strong Blond Ale Aged in Brandy Barrels",
+    "location": "Washington DC",
+    "abv": "",
+    "servingStyle": "Draft",
+    "id": 131
+}, {
+    "name": "DC Brau Alpha Domina Mellis",
+    "type": "Imperial IPA",
+    "location": "Washington DC",
+    "abv": "10",
+    "servingStyle": "Draft",
+    "id": 132
+}, {
+    "name": "Great Lakes Engine 20",
+    "type": "American Pale Ale w\/ Smoked Malt",
+    "location": "Ohio",
+    "abv": "6",
+    "servingStyle": "Draft",
+    "id": 133
+}, {
+    "name": "Lagunitas High Westified Cappuccino Stout",
+    "type": "Imperial Stout w\/ Coffee Aged in Rye Whiskey Barrels",
+    "location": "California",
+    "abv": "9.3",
+    "servingStyle": "",
+    "id": 134
+}, {
+    "name": "Lagunitas India Pale Ale",
+    "type": "American IPA",
+    "location": "California",
+    "abv": "6.2",
+    "servingStyle": "Draft",
+    "id": 135
+}, {
+    "name": "Bear Republic Barrel 45 Wet Hop Wild Racer 5",
+    "type": "Fresh-Hop IPA Aged in Oak Barrels w\/ Brettanomyces",
+    "location": "California",
+    "abv": "7.5",
+    "servingStyle": "Draft",
+    "id": 136
+}, {
+    "name": "Jolly Pumpkin iO Saison",
+    "type": "Saison",
+    "location": "Michigan",
+    "abv": "6.8",
+    "servingStyle": "Draft",
+    "id": 137
+}, {
+    "name": "Jolly Pumpkin Bam Biere",
+    "type": "Saison Aged in Oak Barrels",
+    "location": "Michigan",
+    "abv": "4.5",
+    "servingStyle": "Draft",
+    "id": 138
+}, {
+    "name": "Laughing Dog 8th Anniversary: De Achtste Hond",
+    "type": "Wild Ale Aged in Oak Barrels",
+    "location": "Idaho",
+    "abv": "7.2",
+    "servingStyle": "Draft",
+    "id": 139
+}, {
+    "name": "Perennial Heart of Gold",
+    "type": "Wheatwine",
+    "location": "Missouri",
+    "abv": "10",
+    "servingStyle": "Draft",
+    "id": 140
+}, {
+    "name": "Saucony Creek Captain Pumpkin\u2019s Maple Mistress",
+    "type": "Imperial Pumpkin Ale",
+    "location": "Pennsylvania",
+    "abv": "9.5",
+    "servingStyle": "Draft",
+    "id": 141
+}, {
+    "name": "Saucony Creek Stonefly IPA",
+    "type": "American IPA",
+    "location": "Pennsylvania",
+    "abv": "6.7",
+    "servingStyle": "Draft",
+    "id": 142
+}, {
+    "name": "Tr\u00f6egs Naked Elf",
+    "type": "Tripel",
+    "location": "Pennsylvania",
+    "abv": "6.8",
+    "servingStyle": "Draft",
+    "id": 143
+}, {
+    "name": "Tr\u00f6egs Scratch #116: Fresh Hop Ale",
+    "type": "Fresh-Hop IPA",
+    "location": "Pennsylvania",
+    "abv": "8",
+    "servingStyle": "Draft",
+    "id": 144
+}, {
+    "name": "Fordham Spiced Harvest Ale",
+    "type": "Pumpkin Ale",
+    "location": "Delaware",
+    "abv": "6.6",
+    "servingStyle": "Draft",
+    "id": 145
+}, {
+    "name": "Fordham Catherine the Great",
+    "type": "Imperial Porter Aged in Bourbon Barrels",
+    "location": "Delaware",
+    "abv": "7.8",
+    "servingStyle": "Draft",
+    "id": 146
+}, {
+    "name": "Mahr's 1670 Ale",
+    "type": "Altbier",
+    "location": "Germany",
+    "abv": "6.5",
+    "servingStyle": "Draft",
+    "id": 147
+}, {
+    "name": "Mahr's Roter Baron",
+    "type": "Altbier",
+    "location": "Germany",
+    "abv": "6",
+    "servingStyle": "Draft",
+    "id": 148
+}, {
+    "name": "Original Ritterguts Gose",
+    "type": "Gose",
+    "location": "Germany",
+    "abv": "4.2",
+    "servingStyle": "Draft",
+    "id": 149
+}, {
+    "name": "Freigeist Abraxxxas",
+    "type": "Lichtenhainer",
+    "location": "Germany",
+    "abv": "6",
+    "servingStyle": "Draft",
+    "id": 150
+}, {
+    "name": "Freigeist Hibiskuss",
+    "type": "Wild Ale w\/ Hibiscus",
+    "location": "Germany",
+    "abv": "7.5",
+    "servingStyle": "Draft",
+    "id": 151
+}, {
+    "name": "The Monarchy Grodziskie",
+    "type": "Grodziskie-Gr\u00e4tzer w\/ Willow Bark",
+    "location": "Germany",
+    "abv": "3.3",
+    "servingStyle": "Draft",
+    "id": 152
+}, {
+    "name": "Bold Rock Virginia Draft Cider",
+    "type": "Cider",
+    "location": "Virginia",
+    "abv": "4.7",
+    "servingStyle": "Draft",
+    "id": 153
+}, {
+    "name": "Devils Backbone Blue Ridge Hop Revival",
+    "type": "Fresh-Hop Pale Ale",
+    "location": "Virginia",
+    "abv": "5.8",
+    "servingStyle": "Draft",
+    "id": 154
+}, {
+    "name": "Devils Backbone Wood-Aged Kilt Flasher",
+    "type": "Wee Heavy Aged in Bourbon Barrels",
+    "location": "Virginia",
+    "abv": "7.8",
+    "servingStyle": "Draft",
+    "id": 155
+}, {
+    "name": "Devils Backbone Vienna Lager",
+    "type": "Vienna Lager",
+    "location": "Virginia",
+    "abv": "4.9",
+    "servingStyle": "Draft",
+    "id": 156
+}, {
+    "name": "Victory DirtWolf",
+    "type": "Imperial IPA",
+    "location": "Pennsylvania",
+    "abv": "8.7",
+    "servingStyle": "Draft",
+    "id": 157
+}, {
+    "name": "Widmer Pitch Black",
+    "type": "Black IPA",
+    "location": "Oregon",
+    "abv": "6.5",
+    "servingStyle": "Draft",
+    "id": 158
+}, {
+    "name": "Widmer Barrel-Aged Old Embalmer",
+    "type": "Barleywine Aged in Wine Barrels",
+    "location": "Oregon",
+    "abv": "10.2",
+    "servingStyle": "Draft",
+    "id": 159
+}, {
+    "name": "Goose Island Sofie",
+    "type": "Saison w\/ Orange Peel Aged in Wine Barrels",
+    "location": "Illinois",
+    "abv": "6.5",
+    "servingStyle": "Draft",
+    "id": 160
+}, {
+    "name": "Rogue Farms Good Chit",
+    "type": "German Pilsner",
+    "location": "Oregon",
+    "abv": "5.2",
+    "servingStyle": "Draft",
+    "id": 161
+}, {
+    "name": "Natty Greene\u2019s Freedom IPA",
+    "type": "American IPA",
+    "location": "North Carolina",
+    "abv": "6.5",
+    "servingStyle": "Draft",
+    "id": 162
+}, {
+    "name": "Natty Greene\u2019s Buckshot Amber",
+    "type": "American Amber Ale",
+    "location": "North Carolina",
+    "abv": "4.9",
+    "servingStyle": "Draft",
+    "id": 163
+}, {
+    "name": "Flying Dog Roggen",
+    "type": "Dunkelweizen w\/ Rye",
+    "location": "Maryland",
+    "abv": "5.7",
+    "servingStyle": "Draft",
+    "id": 164
+}, {
+    "name": "Flying Dog Orchard Ale",
+    "type": "Belgian Strong Blond w\/ Apple Juice",
+    "location": "Maryland",
+    "abv": "8.5",
+    "servingStyle": "Draft",
+    "id": 165
+}, {
+    "name": "Sierra Nevada Bigfoot 2013",
+    "type": "American Barleywine",
+    "location": "California",
+    "abv": "9.6",
+    "servingStyle": "Draft",
+    "id": 166
+}, {
+    "name": "Harpoon Saison Various",
+    "type": "Saison Aged in Oak Barrels",
+    "location": "Massachusetts",
+    "abv": "7.5",
+    "servingStyle": "Draft",
+    "id": 167
+}, {
+    "name": "Harpoon Imperial Pumpkin",
+    "type": "Imperial Pumpkin Stout",
+    "location": "Massachusetts",
+    "abv": "10.5",
+    "servingStyle": "Draft",
+    "id": 168
+}, {
+    "name": "Dogfish Head Wine Barrel-Aged Noble Rot",
+    "type": "Saison w\/ Wine Grapes Aged in Wine Barrels",
+    "location": "Delaware",
+    "abv": "9",
+    "servingStyle": "Draft",
+    "id": 169
+}, {
+    "name": "Dogfish Head American Beauty",
+    "type": "American Strong Ale w\/ Almonds & Honey",
+    "location": "Delaware",
+    "abv": "9",
+    "servingStyle": "Draft",
+    "id": 170
+}, {
+    "name": "Brooklyn Post Road Pumpkin Ale",
+    "type": "Pumpkin Ale",
+    "location": "New York",
+    "abv": "5",
+    "servingStyle": "Draft",
+    "id": 171
+}, {
+    "name": "Brooklyn Cuv\u00e9e La Bo\u00eete",
+    "type": "Belgian Strong Blond Ale w\/ Lemon Peel",
+    "location": "New York",
+    "abv": "8.2",
+    "servingStyle": "",
+    "id": 172
+}, {
+    "name": "Boulevard Test Nelson Grape Ale",
+    "type": "American Blond Ale w\/ Muscat Grapes & Nelson Sauvin Hops",
+    "location": "Missouri",
+    "abv": "4",
+    "servingStyle": "Draft",
+    "id": 173
+}, {
+    "name": "New Belgium Abbey",
+    "type": "Dubbel",
+    "location": "Colorado",
+    "abv": "7",
+    "servingStyle": "Draft",
+    "id": 174
+}, {
+    "name": "New Belgium Yuzu",
+    "type": "Imperial Berliner Weisse w\/ Yuzu",
+    "location": "Colorado",
+    "abv": "8",
+    "servingStyle": "Draft",
+    "id": 175
+}, {
+    "name": "New Belgium & Cigar City Collaboration Ale",
+    "type": "Belgian Strong Blond Ale w\/ Chilies Aged on Spanish Cedar",
+    "location": "Colorado & Florida",
+    "abv": "8.5",
+    "servingStyle": "Draft",
+    "id": 176
+}, {
+    "name": "Sam Adams Verloren",
+    "type": "Gose",
+    "location": "Massachusetts",
+    "abv": "6",
+    "servingStyle": "Draft",
+    "id": 177
+}, {
+    "name": "Starr Hill Cryptical",
+    "type": "Imperial Stout",
+    "location": "Virginia",
+    "abv": "7.5",
+    "servingStyle": "Draft",
+    "id": 178
+}, {
+    "name": "Anchor BigLeaf Maple Autumn Red",
+    "type": "American Amber Ale w\/ Maple Syrup",
+    "location": "California",
+    "abv": "6",
+    "servingStyle": "Draft",
+    "id": 179
+}, {
+    "name": "Allagash Midnight Brett",
+    "type": "Wild Ale",
+    "location": "Maine",
+    "abv": "7.5",
+    "servingStyle": "Draft",
+    "id": 180
+}, {
+    "name": "Allagash James Bean",
+    "type": "Tripel w\/ Coffee Aged in Bourbon Barrels",
+    "location": "Maine",
+    "abv": "10.3",
+    "servingStyle": "Draft",
+    "id": 181
+}, {
+    "name": "Allagash BAT",
+    "type": "Belgian Strong Pale Ale Aged in Tequila Barrels",
+    "location": "Maine",
+    "abv": "9",
+    "servingStyle": "Draft",
+    "id": 182
+}, {
+    "name": "Ommegang Take the Black (Game of Thrones Beer #2)",
+    "type": "Belgian Stout w\/ Star Anise & Licorice Root",
+    "location": "New York",
+    "abv": "7",
+    "servingStyle": "Draft",
+    "id": 183
+}, {
+    "name": "Firestone Walker Pivo Hoppy Pils",
+    "type": "Bohemian Pilsner",
+    "location": "California",
+    "abv": "5.3",
+    "servingStyle": "Draft",
+    "id": 184
+}, {
+    "name": "Firestone Walker Agrestic Ale",
+    "type": "Extra Special Bitter Aged in Oak Barrels w\/ Brettanomyces",
+    "location": "California",
+    "abv": "7",
+    "servingStyle": "Draft",
+    "id": 185
+}, {
+    "name": "Firestone Walker Parabajava",
+    "type": "Imperial Stout w\/ Coffee Aged in Bourbon Barrels",
+    "location": "California",
+    "abv": "13",
+    "servingStyle": "Draft",
+    "id": 186
+}, {
+    "name": "Atlas Brew Works Rowdy",
+    "type": "American Pale Ale w\/ Rye",
+    "location": "Washington DC",
+    "abv": "6.2",
+    "servingStyle": "Draft",
+    "id": 187
+}, {
+    "name": "Woodchuck 802 Dark & Dry Cider",
+    "type": "Cider",
+    "location": "Vermont",
+    "abv": "5",
+    "servingStyle": "Draft",
+    "id": 188
+}, {
+    "name": "Uinta Punk\u2019n",
+    "type": "Pumpkin Ale",
+    "location": "Utah",
+    "abv": "4",
+    "servingStyle": "Draft",
+    "id": 189
+}, {
+    "name": "Elysian Punkacino",
+    "type": "Pumpkin Stout w\/ Coffee",
+    "location": "Washington",
+    "abv": "5",
+    "servingStyle": "Draft",
+    "id": 190
+}, {
+    "name": "Wells Banana Bread Beer",
+    "type": "Fruit Beer w\/ Banana",
+    "location": "England",
+    "abv": "5.2",
+    "servingStyle": "Draft",
+    "id": 191
+}, {
+    "name": "Schlafly Oatmeal Stout",
+    "type": "Oatmeal Stout",
+    "location": "Missouri",
+    "abv": "5.7",
+    "servingStyle": "Draft",
+    "id": 192
+}, {
+    "name": "Green Flash Flanders Drive",
+    "type": "Flanders Drive Aged in Bourbon Barrels",
+    "location": "California",
+    "abv": "6.9",
+    "servingStyle": "Draft",
+    "id": 193
+}, {
+    "name": "Green Flash East Village Pilsner",
+    "type": "German Pilsner",
+    "location": "California",
+    "abv": "5.3",
+    "servingStyle": "Draft",
+    "id": 194
+}, {
+    "name": "North Coast Red Seal",
+    "type": "American Amber Ale",
+    "location": "California",
+    "abv": "5.5",
+    "servingStyle": "Draft",
+    "id": 195
+}, {
+    "name": "North Coast, Deschutes & Rogue Class of \u201988 Barleywine",
+    "type": "English Barleywine",
+    "location": "California & Oregon",
+    "abv": "10",
+    "servingStyle": "Draft",
+    "id": 196
+}, {
+    "name": "Original Sin Hard Cider",
+    "type": "Cider",
+    "location": "New York",
+    "abv": "6",
+    "servingStyle": "Draft",
+    "id": 197
+}, {
+    "name": "Original Sin Elderberry Cider",
+    "type": "Cider w\/ Elderberries",
+    "location": "New York",
+    "abv": "5",
+    "servingStyle": "Draft",
+    "id": 198
+}, {
+    "name": "HeBrew Bittersweet Lennys R.I.P.A.",
+    "type": "Imperial IPA",
+    "location": "New York",
+    "abv": "10",
+    "servingStyle": "Draft",
+    "id": 199
+}, {
+    "name": "HeBrew Death of a Contract Brewer",
+    "type": "Black IPA",
+    "location": "New York",
+    "abv": "7",
+    "servingStyle": "Draft",
+    "id": 200
+}, {
+    "name": "Van Steenberge Gulden Draak",
+    "type": "Belgian Strong Dark Ale",
+    "location": "Belgium",
+    "abv": "10.5",
+    "servingStyle": "Draft",
+    "id": 201
+}, {
+    "name": "Boulevard Reboot White IPA",
+    "type": "White IPA",
+    "location": "Missouri",
+    "abv": "7.4",
+    "servingStyle": "Draft",
+    "id": 202
+}, {
+    "name": "3 Stars Citra Lemon Peel Saison",
+    "type": "Saison",
+    "location": "Washington DC",
+    "abv": "5",
+    "servingStyle": "Draft",
+    "id": 203
+}, {
+    "name": "3 Stars Pandemic Breakfast Porter (w\/ Vanilla Beans in the Cask)",
+    "type": "Imperial Porter w\/ Coffee",
+    "location": "Washington DC",
+    "abv": "9.6",
+    "servingStyle": "Cask",
+    "id": 204
+}, {
+    "name": "Bluejacket Batch #11: Falconer\u2019s Flight IPA",
+    "type": "American IPA",
+    "location": "Washington DC",
+    "abv": "7",
+    "servingStyle": "Cask",
+    "id": 205
+}, {
+    "name": "Bluejacket Batch #4: Ahtanum IPA",
+    "type": "American IPA",
+    "location": "Washington DC",
+    "abv": "6.3",
+    "servingStyle": "Cask",
+    "id": 206
+}, {
+    "name": "Bluejacket Batch #19: Dunkelweizen",
+    "type": "Dunkelweizen",
+    "location": "Washington DC",
+    "abv": "5.7",
+    "servingStyle": "Draft",
+    "id": 207
+}, {
+    "name": "Bluejacket & Freigeist Batch #3: Rheinischer Bitter",
+    "type": "K\u00f6lsch",
+    "location": "Washington DC & Germany",
+    "abv": "5.1",
+    "servingStyle": "Draft",
+    "id": 208
+}, {
+    "name": "Bluejacket Batch #12: Black Lager",
+    "type": "Schwarzbier",
+    "location": "Washington DC",
+    "abv": "5.1",
+    "servingStyle": "Draft",
+    "id": 209
+}, {
+    "name": "Bluejacket Batch #20: Hoppy Farmhouse Ale",
+    "type": "Saison",
+    "location": "Washington DC",
+    "abv": "5.8",
+    "servingStyle": "Draft",
+    "id": 210
+}, {
+    "name": "Peak Organic Maple Collaboration",
+    "type": "American Amber w\/ Local Oats & Local Maple Syrup",
+    "location": "Maine",
+    "abv": "6.7",
+    "servingStyle": "Draft",
+    "id": 211
+}, {
+    "name": "Mother Earth Smoked Lager",
+    "type": "Rauchbier",
+    "location": "North Carolina",
+    "abv": "6.4",
+    "servingStyle": "Draft",
+    "id": 212
+}, {
+    "name": "Saranac White IPA",
+    "type": "White IPA",
+    "location": "New York",
+    "abv": "6",
+    "servingStyle": "Draft",
+    "id": 213
+}, {
+    "name": "Atlas Brew Works District Common",
+    "type": "California Common",
+    "location": "Washington DC",
+    "abv": "5.1",
+    "servingStyle": "Draft",
+    "id": 214
+}, {
+    "name": "Upright #6",
+    "type": "Saison",
+    "location": "Oregon",
+    "abv": "6.7",
+    "servingStyle": "Draft",
+    "id": 215
+}]

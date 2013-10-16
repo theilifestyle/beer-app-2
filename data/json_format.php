@@ -21,7 +21,7 @@ if (file_exists($cachefile) &&
 }
 
 // Set your CSV feed
-$feed = 'https://docs.google.com/spreadsheet/pub?hl=en_US&hl=en_US&key=0Aj3aReTsghGzdG8wcGZOLXZZWGZUS1Z3NnRyS1JKV3c&single=true&gid=0&output=csv';
+$feed = 'https://docs.google.com/spreadsheet/pub?hl=en_US&hl=en_US&key=0Aj3aReTsghGzdDVNMTduYnVYWE1RSTR1bFJPV2swVmc&single=true&gid=0&output=csv';
 
 // Arrays we'll use later
 $keys = array();

@@ -8,15 +8,21 @@ window.beerzu2 = {
     Routers: {},
     init: function () {
 
-        var m = new beerzu2.Models.BeerModel();
+        var beer = new beerzu2.Models.BeerModel();
 
-        var c = new beerzu2.Collections.BeerCollection();
-        c.fetch({
+        var beers = new beerzu2.Collections.BeerCollection({
+            model: beer
+        });
+        beers.fetch({
             reset: true
         });
 
-        var v = new beerzu2.Views.BeerView({
-            collection: c
+        var beerList = new beerzu2.Views.BeerView({
+            collection: beers
+        });
+
+        var controls = new beerzu2.Views.ControlsView({
+            collection: beers
         });
 
     }
