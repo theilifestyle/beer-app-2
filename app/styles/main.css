@@ -490,37 +490,6 @@ body {
   box-sizing: border-box;
 }
 /* line 17, ../sass/_home.scss */
-#controls input {
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
-  background: #8f714a url("/images/icon/search.png") no-repeat 10px center;
-  border: 1px solid #8f714a;
-  padding: 15px 10px 15px 55px;
-  display: block;
-  outline: none;
-  width: 95%;
-  border-radius: 3px;
-  box-shadow: 0 0 0 1px #6c512e inset;
-  color: #fff;
-  font-family: "myriad-pro",sans-serif;
-  margin: 0 auto 0.5em;
-}
-/* line 30, ../sass/_home.scss */
-#controls input::-webkit-input-placeholder {
-  color: #bca169;
-  font-weight: normal;
-  font-style: italic;
-  font-size: 19px;
-}
-/* line 37, ../sass/_home.scss */
-#controls input:-moz-placeholder {
-  color: #bca169;
-  font-weight: normal;
-  font-style: italic;
-  font-size: 19px;
-}
-/* line 44, ../sass/_home.scss */
 #controls #buttons-cont {
   display: -webkit-box;
   display: -moz-box;
@@ -528,7 +497,7 @@ body {
   width: 95%;
   margin: 0 auto;
 }
-/* line 49, ../sass/_home.scss */
+/* line 22, ../sass/_home.scss */
 #controls button {
   background: #58442a;
   border: 1px solid #94764f;
@@ -547,7 +516,7 @@ body {
   box-flex: 1;
 }
 
-/* line 66, ../sass/_home.scss */
+/* line 39, ../sass/_home.scss */
 .entry {
   padding: 15px;
   margin: 0 0 7px 0;
@@ -556,19 +525,19 @@ body {
   border-radius: 3px;
   box-shadow: 0 0 0 1px rgba(123, 96, 68, 0.75) inset;
 }
-/* line 73, ../sass/_home.scss */
+/* line 46, ../sass/_home.scss */
 .entry .beer-title {
   display: -webkit-box;
   display: -moz-box;
   display: box;
 }
-/* line 75, ../sass/_home.scss */
+/* line 48, ../sass/_home.scss */
 .entry .beer-title .beer-headline {
   -webkit-box-flex: 2;
   -moz-box-flex: 2;
   box-flex: 2;
 }
-/* line 78, ../sass/_home.scss */
+/* line 51, ../sass/_home.scss */
 .entry .beer-title .beer-serve-style {
   -webkit-box-flex: 1;
   -moz-box-flex: 1;
@@ -581,27 +550,27 @@ body {
   border-radius: 3px;
   box-shadow: 0 0 0 1px rgba(63, 47, 26, 0.75) inset;
 }
-/* line 87, ../sass/_home.scss */
+/* line 60, ../sass/_home.scss */
 .entry .beer-title .beer-serve-style .Draft {
   background: url("/images/icon/tap.png") no-repeat center center;
   height: 67px;
 }
-/* line 91, ../sass/_home.scss */
+/* line 64, ../sass/_home.scss */
 .entry .beer-title .beer-serve-style .Cask {
   background: url("/images/icon/cask.png") no-repeat center center;
   height: 66px;
 }
-/* line 95, ../sass/_home.scss */
+/* line 68, ../sass/_home.scss */
 .entry .beer-title .beer-serve-style .Rubber-Clad {
   background: url("/images/icon/rubber-gravity.png") no-repeat center center;
   height: 70px;
 }
-/* line 99, ../sass/_home.scss */
+/* line 72, ../sass/_home.scss */
 .entry .beer-title .beer-serve-style .Wood-Clad {
   background: url("/images/icon/wood-gravity.png") no-repeat center center;
   height: 70px;
 }
-/* line 105, ../sass/_home.scss */
+/* line 78, ../sass/_home.scss */
 .entry .beer-info {
   border-top: 1px solid #9e7e55;
   border-bottom: 1px solid #9e7e55;
@@ -611,32 +580,32 @@ body {
   display: -moz-box;
   display: box;
 }
-/* line 111, ../sass/_home.scss */
+/* line 84, ../sass/_home.scss */
 .entry .beer-info .beer-info-cont {
   border-right: 1px solid #9e7e55;
   padding: 0 25px;
   max-width: 50%;
 }
-/* line 115, ../sass/_home.scss */
+/* line 88, ../sass/_home.scss */
 .entry .beer-info .beer-info-cont:first-child {
   padding-left: 0;
 }
-/* line 118, ../sass/_home.scss */
+/* line 91, ../sass/_home.scss */
 .entry .beer-info .beer-info-cont:last-child {
   border-right: none;
 }
-/* line 123, ../sass/_home.scss */
+/* line 96, ../sass/_home.scss */
 .entry h1, .entry h2, .entry h3, .entry h4, .entry h5, .entry h4, .entry h5, .entry h6 {
   margin: 0;
   -webkit-font-smoothing: antialiased;
 }
-/* line 127, ../sass/_home.scss */
+/* line 100, ../sass/_home.scss */
 .entry h1 {
   font-size: 30px;
   line-height: 1em;
   text-transform: uppercase;
 }
-/* line 132, ../sass/_home.scss */
+/* line 105, ../sass/_home.scss */
 .entry h2 {
   color: #bca169;
   font-family: "myriad-pro",sans-serif;
@@ -644,27 +613,86 @@ body {
   text-transform: uppercase;
   font-size: 15px;
 }
-/* line 139, ../sass/_home.scss */
+/* line 112, ../sass/_home.scss */
 .entry h3, .entry h4, .entry h5 {
   font-family: "myriad-pro",sans-serif;
   color: #58442a;
 }
-/* line 143, ../sass/_home.scss */
+/* line 116, ../sass/_home.scss */
 .entry h4 {
   color: #fff;
 }
-/* line 147, ../sass/_home.scss */
+/* line 120, ../sass/_home.scss */
 .entry h5 {
   color: white;
 }
-/* line 151, ../sass/_home.scss */
+/* line 124, ../sass/_home.scss */
 .entry p {
   font-family: "myriad-pro",sans-serif;
 }
-/* line 154, ../sass/_home.scss */
+/* line 127, ../sass/_home.scss */
 .entry a {
   color: white;
   font-weight: bold;
+}
+
+/* line 133, ../sass/_home.scss */
+.twitter-typeahead {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  background: #8f714a url("/images/icon/search.png") no-repeat 10px center;
+  border: 1px solid #8f714a;
+  border-radius: 3px;
+  padding: 15px 10px 15px 55px;
+  display: block !important;
+  width: 95%;
+  box-shadow: 0 0 0 1px #6c512e inset;
+  color: #fff;
+  font-family: "myriad-pro",sans-serif;
+  margin: 0 auto 0.5em;
+}
+/* line 145, ../sass/_home.scss */
+.twitter-typeahead .tt-hint {
+  padding: 15px 10px 15px 55px;
+  background: none !important;
+}
+/* line 149, ../sass/_home.scss */
+.twitter-typeahead #item-search {
+  width: 100%;
+  border: none;
+  outline: none;
+}
+/* line 153, ../sass/_home.scss */
+.twitter-typeahead #item-search::-webkit-input-placeholder {
+  color: #bca169;
+  font-weight: normal;
+  font-style: italic;
+  font-size: 19px;
+}
+/* line 159, ../sass/_home.scss */
+.twitter-typeahead #item-search:-moz-placeholder {
+  color: #bca169;
+  font-weight: normal;
+  font-style: italic;
+  font-size: 19px;
+}
+/* line 166, ../sass/_home.scss */
+.twitter-typeahead .tt-dropdown-menu {
+  background: #ddd;
+  color: #444;
+  border-radius: 3px;
+  width: 100%;
+}
+/* line 171, ../sass/_home.scss */
+.twitter-typeahead .tt-dropdown-menu p {
+  margin: 0;
+  padding: 10px 15px;
+}
+/* line 174, ../sass/_home.scss */
+.twitter-typeahead .tt-dropdown-menu p:hover {
+  background: #444;
+  color: #ddd;
 }
 
 /* line 1, ../sass/_about.scss */
@@ -673,21 +701,7 @@ body {
   width: 95%;
   margin: 0 auto;
   position: relative;
-}
-
-/* line 8, ../sass/_about.scss */
-#about-cont--closer {
-  background: #fff;
-  border-radius: 100%;
-  box-sizing: border-box;
-  height: 25px;
-  width: 25px;
-  border: none;
-  position: absolute;
-  top: 1em;
-  right: 0;
-  line-height: 0;
-  font-weight: 100;
+  display: none;
 }
 
 /* ==|== non-semantic helper classes ======================================== */

@@ -3,18 +3,5 @@
     width: 95%;
     margin: 0 auto;
     position: relative;
-}
-
-#about-cont--closer {
-    background: #fff;
-    border-radius: 100%;
-    box-sizing: border-box;
-    height: 25px;
-    width: 25px;
-    border: none;
-    position: absolute;
-    top: 1em;
-    right: 0;
-    line-height: 0;
-    font-weight: 100;
+    display: none;
 }

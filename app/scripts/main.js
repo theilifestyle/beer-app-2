@@ -13,6 +13,7 @@ window.beerzu2 = {
         var beers = new beerzu2.Collections.BeerCollection({
             model: beer
         });
+
         beers.fetch({
             reset: true
         });

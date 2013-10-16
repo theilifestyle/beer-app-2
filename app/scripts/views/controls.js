@@ -18,6 +18,7 @@ beerzu2.Views = beerzu2.Views || {};
 
         render: function() {
             $(this.el).html(this.template());
+            this.searchComplete();
         },
 
         events: {
@@ -26,7 +27,6 @@ beerzu2.Views = beerzu2.Views || {};
             'click #nav--locationAbbrev' : 'pickLocation',
             'click #nav--style'          : 'filterStyles',
             'click #nav--about'          : 'showInfo'
-
         },
 
         sortAbv: function() {
@@ -35,6 +35,23 @@ beerzu2.Views = beerzu2.Views || {};
 
         sortAlpha: function() {
             this.collection.sortAlpha();
+        },
+
+        showInfo: function() {
+            $('#about-cont').slideToggle();
+        },
+
+        searchComplete: function() {
+            $('#item-search').typeahead({
+                name: "name",
+                prefetch: {
+                    url: '/data/beers2.json',
+                    filter: function( res ) {
+                        return res
+                    }
+                },
+                valueKey: "name",
+            });
         }
 
     });

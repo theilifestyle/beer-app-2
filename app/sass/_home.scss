@@ -14,33 +14,6 @@ body {
   top: 0;
   background: $darkest;
   @include box-sizing(border-box);
-  input {
-    @include box-sizing(border-box);
-    background: #8f714a url('/images/icon/search.png') no-repeat 10px center;
-    border: 1px solid #8f714a;
-    padding: 15px 10px 15px 55px;
-    display: block;
-    outline: none;
-    width: 95%;
-    border-radius: 3px;
-    box-shadow: 0 0 0 1px #6c512e inset;
-    color: #fff;
-    font-family: "myriad-pro",sans-serif;
-    margin: 0 auto 0.5em;
-    &::-webkit-input-placeholder {
-      color: #bca169;
-      font-weight: normal;
-      font-style: italic;
-      font-size: 19px;
-    }
-
-    &:-moz-placeholder {
-      color: #bca169;
-      font-weight: normal;
-      font-style: italic;
-      font-size: 19px;
-    }
-  }
   #buttons-cont {
     @include display-box;
     width: 95%;
@@ -155,4 +128,53 @@ body {
     color: $text;
     font-weight: bold;
   }
+}
+
+.twitter-typeahead {
+    @include box-sizing(border-box);
+    background: #8f714a url('/images/icon/search.png') no-repeat 10px center;
+    border: 1px solid #8f714a;
+    border-radius: 3px;
+    padding: 15px 10px 15px 55px;
+    display: block !important;
+    width: 95%;
+    box-shadow: 0 0 0 1px #6c512e inset;
+    color: #fff;
+    font-family: "myriad-pro",sans-serif;
+    margin: 0 auto 0.5em;
+    .tt-hint {
+        padding: 15px 10px 15px 55px;
+        background: none !important;
+    }
+    #item-search {
+        width: 100%;
+        border: none;
+        outline: none;
+        &::-webkit-input-placeholder {
+            color: #bca169;
+            font-weight: normal;
+            font-style: italic;
+            font-size: 19px;
+        }
+        &:-moz-placeholder {
+            color: #bca169;
+            font-weight: normal;
+            font-style: italic;
+            font-size: 19px;
+        }
+    }
+    .tt-dropdown-menu {
+        background: #ddd;
+        color: #444;
+        border-radius: 3px;
+        width: 100%;
+        p {
+            margin: 0;
+            padding: 10px 15px;
+            &:hover {
+                background: #444;
+                color: #ddd;
+            }
+        }
+    }
 }
