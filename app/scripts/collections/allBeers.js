@@ -8,6 +8,11 @@ beerzu2.Collections = beerzu2.Collections || {};
     beerzu2.Collections.BeerCollection = Backbone.Collection.extend({
 
         url: '/data/beers2.json',
+
+        initialize: function( models ) {
+            this.filtered = new Backbone.Collection( models );
+        },
+
         comparator: function( beer ) {
             if ( this._orderType === "abv" ) {
                 return this._sortDirection * parseInt( beer.attributes.abv );
@@ -16,6 +21,14 @@ beerzu2.Collections = beerzu2.Collections || {};
             } else {
                 return beer.attributes.name;
             }
+        },
+
+        filterLocation: function( location ) {
+            var matchingLocations = _.filter( this.models, function( beer ) {
+                return location.toLowerCase() == beer.attributes.location.toLowerCase()
+            });
+            this.filtered.reset( matchingLocations );
+            return this.filtered;
         },
 
         sortAbv: function() {

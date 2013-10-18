@@ -1,0 +1,30 @@
+#controls {
+    width: 100%;
+    padding: 7px 0;
+    border-bottom: 1px solid #41311d;
+    box-shadow: -7px 5px 18px -5px #3F2F1A;
+    position: fixed;
+    top: 0;
+    background: $darkest;
+    @include box-sizing(border-box);
+    #buttons-cont {
+        @include display-box;
+        width: 95%;
+        margin: 0 auto;
+    }
+    button {
+        background: #58442a;
+        border: 1px solid #94764f;
+        color: $text;
+        padding: 5px;
+        text-align: center;
+        font-family: "myriad-pro",sans-serif;
+        border-radius: 3px;
+        box-shadow: 0 0 0 1px #3f2f1a inset;
+        margin: 0 3px;
+        outline: none;
+        text-transform: uppercase;
+        display: block;
+        @include box-flex(1);
+    }
+}

@@ -26,11 +26,16 @@ window.beerzu2 = {
             collection: beers
         });
 
+        var locationList = new beerzu2.Views.LocationsView({
+            collection: beers
+        });
+
     }
 };
 
 $(document).ready(function () {
     'use strict';
+    // create event
+    Backbone.View.prototype.eventBus = _.extend({}, Backbone.Events)
     beerzu2.init();
-
 });

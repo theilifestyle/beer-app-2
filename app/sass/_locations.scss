@@ -1,0 +1,39 @@
+#locations-cont {
+    width: 95%;
+    margin: 0 auto;
+    @include columns(2);
+    height: auto;
+    max-height: 1000px;
+    max-height: 0;
+    box-sizing: border-box;
+    overflow: hidden;
+    @include transition( max-height 0.3s, padding 0.3s );
+    &.is-active {
+        padding: 17px 0;
+        max-height: 1000px;
+        p {
+            opacity: 1;
+        }
+    }
+    p {
+        opacity: 0;
+        margin: 0 0 0.25em;
+        @include transition( opacity 0.3s );
+        a {
+            background: transparentize(#58442a, 0.9);
+            border: 1px solid transparentize(#94764f, 0.9);
+            color: $text;
+            padding: 5px;
+            text-align: center;
+            font-family: "myriad-pro",sans-serif;
+            border-radius: 3px;
+            box-shadow: 0 0 0 1px #3f2f1a inset;
+            margin: 0 3px;
+            outline: none;
+            text-transform: uppercase;
+            display: block;
+            text-decoration: none;
+            color: #fff;
+        }
+    }
+}

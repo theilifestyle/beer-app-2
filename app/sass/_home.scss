@@ -5,37 +5,6 @@ body {
     font-family: "myriad-pro",sans-serif;
 }
 
-#controls {
-  width: 100%;
-  padding: 7px 0;
-  border-bottom: 1px solid #41311d;
-  box-shadow: -7px 5px 18px -5px #3F2F1A;
-  position: fixed;
-  top: 0;
-  background: $darkest;
-  @include box-sizing(border-box);
-  #buttons-cont {
-    @include display-box;
-    width: 95%;
-    margin: 0 auto;
-  }
-  button {
-    background: #58442a;
-    border: 1px solid #94764f;
-    color: $text;
-    padding: 5px;
-    text-align: center;
-    font-family: "myriad-pro",sans-serif;
-    border-radius: 3px;
-    box-shadow: 0 0 0 1px #3f2f1a inset;
-    margin: 0 3px;
-    outline: none;
-    text-transform: uppercase;
-    display: block;
-    @include box-flex(1);
-  }
-}
-
 .entry {
   padding: 15px;
   margin: 0 0 7px 0;
@@ -128,53 +97,4 @@ body {
     color: $text;
     font-weight: bold;
   }
-}
-
-.twitter-typeahead {
-    @include box-sizing(border-box);
-    background: #8f714a url('/images/icon/search.png') no-repeat 10px center;
-    border: 1px solid #8f714a;
-    border-radius: 3px;
-    padding: 15px 10px 15px 55px;
-    display: block !important;
-    width: 95%;
-    box-shadow: 0 0 0 1px #6c512e inset;
-    color: #fff;
-    font-family: "myriad-pro",sans-serif;
-    margin: 0 auto 0.5em;
-    .tt-hint {
-        padding: 15px 10px 15px 55px;
-        background: none !important;
-    }
-    #item-search {
-        width: 100%;
-        border: none;
-        outline: none;
-        &::-webkit-input-placeholder {
-            color: #bca169;
-            font-weight: normal;
-            font-style: italic;
-            font-size: 19px;
-        }
-        &:-moz-placeholder {
-            color: #bca169;
-            font-weight: normal;
-            font-style: italic;
-            font-size: 19px;
-        }
-    }
-    .tt-dropdown-menu {
-        background: #ddd;
-        color: #444;
-        border-radius: 3px;
-        width: 100%;
-        p {
-            margin: 0;
-            padding: 10px 15px;
-            &:hover {
-                background: #444;
-                color: #ddd;
-            }
-        }
-    }
 }

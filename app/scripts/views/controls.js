@@ -14,43 +14,56 @@ beerzu2.Views = beerzu2.Views || {};
         initialize: function() {
             this.render();
             this.events;
+            this.initSearch();
+            this.eventBus.on("toggle:locations", this.showLocations);
+            $('body').on('typeahead:selected', function( event, data, dataset ) {
+
+            })
         },
 
         render: function() {
-            $(this.el).html(this.template());
-            this.searchComplete();
+            this.$el.html(this.template());
         },
 
         events: {
-            'click #nav--name'           : 'sortAlpha',
             'click #nav--abv'            : 'sortAbv',
-            'click #nav--locationAbbrev' : 'pickLocation',
+            'click #nav--location'       : 'showLocations',
             'click #nav--style'          : 'filterStyles',
-            'click #nav--about'          : 'showInfo'
+            'click #nav--about'          : 'showInfo',
+            'click #buttons-cont'        : 'scrollTop'
+        },
+
+        scrollTop: function() {
+            window.setTimeout(function() {
+                window.scrollTo(0,0)
+            }, 300);
         },
 
         sortAbv: function() {
             this.collection.sortAbv();
         },
 
-        sortAlpha: function() {
-            this.collection.sortAlpha();
-        },
-
         showInfo: function() {
             $('#about-cont').slideToggle();
         },
 
-        searchComplete: function() {
+        showLocations: function() {
+            $('#locations-cont').toggleClass('is-active');
+        },
+
+        initSearch: function() {
             $('#item-search').typeahead({
                 name: "name",
                 prefetch: {
                     url: '/data/beers2.json',
-                    filter: function( res ) {
-                        return res
+                    ttl: 0,
+                    filter: function( parsedResponse ) {
+                        return parsedResponse
                     }
                 },
                 valueKey: "name",
+                engine: Hogan,
+                template: '<p>{{name}}</p>'
             });
         }
 
