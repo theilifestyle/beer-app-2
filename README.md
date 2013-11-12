@@ -1,1 +1,1 @@
-## view beers @ snallygaster
+## view beers @ [snallygaster](snallygasterdc.com)
